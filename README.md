@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Simple project for using React, Redux, Saga](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
